@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+langchain_groq
+python-dotenv
+selenium
+langchain-core
